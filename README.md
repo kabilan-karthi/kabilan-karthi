@@ -19,7 +19,7 @@
 ## 💻 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,flutter,dart,solidity,web3,ethers,mongodb,mysql,postgres,docker,gcp,github&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,flutter,dart,solidity,mongodb,mysql,postgres,docker,gcp,github&perline=9" />
 </p>
 
 ---
