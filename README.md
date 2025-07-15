@@ -41,14 +41,6 @@
 
 ---
 
-## 🌟 Volunteering & Impact
-- 🏞️ Noyal River Clean-Up
-- 👨‍🏫 Rural coding workshops
-- 💛 Orphanage volunteer work
-- 🎤 Mentoring juniors, organizing hackathons
-
----
-
 ## 📊 My GitHub at a Glance
 
 <p align="center">
