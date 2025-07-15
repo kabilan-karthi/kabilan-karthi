@@ -1,59 +1,58 @@
-<h1 align="center">Hey there! 👋 I'm Kabilan RV</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🔗 Web3 Builder | 🌍 IoT Innovator</h3>
+<h1 align="center">Hi 👋, I'm Kabilan RV</h1>
+<h3 align="center">🚀 Web3 & Mobile App Developer | IoT Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0AE6F0&center=true&vCenter=true&width=550&lines=Turning+Tech+into+Impactful+Solutions;Blockchain+%7C+IoT+%7C+AI+%7C+Flutter;Let's+Build+Something+Awesome+Together+!+💡" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Crafting+Tech+for+Social+Impact;Web3+%7C+IoT+%7C+AI+%7C+Flutter;Hackathon+Winner+%7C+Problem+Solver;Let's+Connect+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 CSE Student @ KGiSL, Coimbatore  
-- 🌐 Skilled in **Web3, Mobile Apps, IoT**  
-- 🛠️ Passionate about building solutions for **public services** and **wildlife safety**  
-- 🧑‍🏫 Conducts **IoT classes** & rural coding workshops  
-- 📫 Contact me at: [karthikabilan.01@gmail.com](mailto:karthikabilan.01@gmail.com)
+## 🚀 About Me
+- 🎯 CS Student @ KGiSL, Coimbatore
+- 🌐 Web3, Mobile Apps, IoT specialist
+- 🏆 Multiple National Hackathon Wins
+- 🤝 Building solutions for **postal systems, wildlife safety, social good**
+- 📫 [karthikabilan.01@gmail.com](mailto:karthikabilan.01@gmail.com)
 
 ---
 
-## 🌈 Tech Stack
+## 💻 Tech Toolbox
 
 <p align="center">
-  <marquee direction="left" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,flutter,dart,mongodb,mysql,postgres,solidity,web3,ethers,docker,gcp,github,vscode&perline=20" height="40" />
-  </marquee>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,flutter,dart,solidity,web3,ethers,mongodb,mysql,postgres,docker,gcp,github&perline=9" />
 </p>
 
 ---
 
-## 🚀 Highlight Projects
+## 🏆 Highlights & Achievements
 
-| 🚀 Project | 🔍 Description |
-|-----------|----------------|
-| 📦 **Post Seva** | Blockchain-secured postal service + delivery KPI dashboard |
-| 🐘 **Elephant Early Warning System** | Prevents train-elephant collisions via IoT alerts |
-| 💝 **TrustChain** | Transparent donation system for orphanages using blockchain |
-| 🗣️ **Voice Assistant (AI)** | Desktop app for visually impaired users |
+- 🥇 **HAC Hackathon – National Winner**
+- 🥈 **Blockathon – Best Innovator Award**
+- ⚡ **Let's Code India – Runner-up**
+- 🎯 **Smart India Hackathon (2023, 2024) – National Finalist**
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **HAC Hackathon – National Winner**  
-- 🧠 **Blockathon – Best Innovator Award**  
-- ⚡ **Let's Code India – Runner-up**  
-- 🧩 **Smart India Hackathon (2023, 2024) – Finalist**  
-- 🧼 **Noyal River Clean-Up Volunteer**  
-- 👨‍🏫 Mentored juniors, organized symposiums, & ran rural code camps  
+## 📦 Key Projects
+- 📮 **Post Seva** – Blockchain-secured postal platform & KPI dashboard
+- 🐘 **Elephant Early Warning System** – IoT for preventing train-elephant collisions
+- 💝 **TrustChain** – Transparent blockchain donations for orphanages
+- 🗣️ **Voice Assistant (AI)** – Desktop app for visually impaired users
 
 ---
 
-## 📊 My Developer DNA
+## 🌟 Volunteering & Impact
+- 🏞️ Noyal River Clean-Up
+- 👨‍🏫 Rural coding workshops
+- 💛 Orphanage volunteer work
+- 🎤 Mentoring juniors, organizing hackathons
+
+---
+
+## 📊 My GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabilan-karthi&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kabilan-karthi&bg_color=0d1117&color=00ffe4&line=29f2ff&point=fafafa&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabilan-karthi&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
@@ -67,13 +66,13 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kabilan-rv-2bb35221a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kabilan_RV-blue?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="mailto:karthikabilan.01@gmail.com">
     <img src="https://img.shields.io/badge/Email-karthikabilan.01@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/kabilan-karthi" target="_blank">
+  <a href="https://www.linkedin.com/in/kabilan-rv-2bb35221a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kabilan%20RV-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/kabilan-karthi">
     <img src="https://img.shields.io/badge/GitHub-kabilan--karthi-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -81,5 +80,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding GIF" />
 </p>
