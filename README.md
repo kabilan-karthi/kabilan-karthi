@@ -1,20 +1,37 @@
 <h1 align="center">Hi there 👋, I'm Kabilan</h1>
-<h3 align="center">Full-Stack Developer | Blockchain Enthusiast | IoT Innovator</h3>
+<h3 align="center">Full-Stack Developer | Blockchain Builder | IoT Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F76D57&size=25&center=true&vCenter=true&width=600&lines=Passionate+Tech+Explorer;Full-Stack+Web+Dev+with+Blockchain;Loves+Building+Social+Impact+Apps;Exploring+AI%2C+IoT+and+Flutter+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=600&lines=🚀+Tech+Enthusiast+%7C+Creative+Problem+Solver;🌐+Full-Stack+Web+%26+Blockchain+Developer;🤝+Building+Social+Impact+Solutions;🧠+Exploring+AI%2C+IoT%2C+ZKP%2C+Cloud+%26+More" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Post Seva**, a cloud-based postal service platform  
-- 🌱 Exploring **Zero-Knowledge Proofs, AI Models, and Layer 2 Scaling**
-- 💡 Known for **creative problem-solving** and **impactful innovations**
-- 👯 Love collaborating on **open source and social good projects**
-- 🧠 Also teaching **IoT & Emerging Tech** to students weekly  
+- 🔭 Currently building **Post Seva**, a secure, cloud-based postal service platform
+- 🌱 Exploring **Zero-Knowledge Proofs, Layer 2 Scaling, and AI-powered delivery models**
+- 💡 Passionate about **creative problem-solving** and **real-world impact**
+- 👨‍🏫 Teaching **IoT & Emerging Tech** weekly to help others grow
+- ✨ Dreamer of solutions to **human–animal conflict** and **environmental safety**
 - 📫 Reach me at: **[yourmail@example.com](mailto:yourmail@example.com)**
+
+---
+
+### 🏆 Achievements & Dream Projects
+
+- 🥇 **Hackathon Wins**
+  - Smart India Hackathon (SIH) Winner
+  - Multiple college-level hackathons with innovative solutions
+- 🐘 **Human–Animal Conflict Mitigation**
+  - *Tusk Patrons*: AI + IoT project to prevent elephant–train accidents
+  - Dream: Deploy scalable, real-time safety systems for wildlife protection
+- 🌄 **alert_l_matic**
+  - IoT landslide early warning system using LoRaWAN and SI
+- 📦 **Post Seva Platform**
+  - Gamified delivery KPIs, blockchain-backed tracking, AI delivery predictions
+- 🗣️ **Voice Assistant for the Visually Impaired**
+  - Desktop app with accessible, speech-based controls
 
 ---
 
@@ -26,25 +43,18 @@
 
 ---
 
-### 🧩 Currently Exploring
-- ⚙️ AI-powered delivery predictions
-- 🔐 Post-quantum security
-- 🔗 Smart contracts for real-world applications
-- 🌍 IoT x Blockchain integrations
+### 🌟 Currently Exploring
+
+- ⚙️ AI-powered logistics and delivery time prediction
+- 🔗 Smart contracts for real-world tendering
+- 🔐 Post-quantum cryptography and authentication
+- 🌍 IoT x Blockchain integrations for social impact
 
 ---
 
-### 🪄 Fun Projects I’ve Built
-- 🛰️ **alert_l_matic** – A landslide detection system using LoRaWAN & SI
-- 🐘 **Tusk Patrons** – Save elephants from train accidents using AI & sensors
-- 📦 **Post Seva** – A blockchain-based postal service with gamified delivery & KPIs
-- 🧠 **Voice Assistant** – Desktop AI tool for visually impaired users
+### ✨ Fun Fact
 
----
-
-### 🌟 Fun Fact
-
-> “When I see a bug, I don’t panic — I debug like a boss 😎.”
+> *"I don’t just code to build apps. I code to build a better world. 🌏✨"*
 
 ---
 
@@ -65,5 +75,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding animation" />
 </p>
